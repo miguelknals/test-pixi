@@ -1,0 +1,12 @@
+[project]
+authors = ["m canals <mk1961@gmx.com>"]
+channels = ["conda-forge"]
+description = "Add a short description here"
+name = "test-pixi"
+platforms = ["win-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+python = "3.11.*"
